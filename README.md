@@ -1,2 +1,2 @@
 # Vehicle-management
-Web site backend for Vehicle management with Nova FrontEnd
+Web site backend with Laravel for Vehicle management with Nova FrontEnd
